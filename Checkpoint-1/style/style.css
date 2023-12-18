@@ -75,11 +75,8 @@ main {
 section {
     background-color: var(--tercer-color);
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 15px;
-   
-
-
 }
 
 .card {
@@ -121,10 +118,10 @@ section article div {
     align-items: end;
     justify-content: center;
     margin: 0;
-    padding: 40px;
     font-size: 12px;
     font-family: verdana;
 }
+
 
 
 
